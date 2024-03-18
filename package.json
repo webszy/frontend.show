@@ -1,0 +1,12 @@
+{
+  "name": "frontend_show",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "projects/*"
+  ],
+  "scripts": {
+  },
+  "dependencies": {}
+}
